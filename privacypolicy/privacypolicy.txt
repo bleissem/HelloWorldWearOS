@@ -1,0 +1,10 @@
+privacy policy:
+
+No data will be send or received by the app itself. 
+No data is stored or loaded by the app itself.
+
+
+Wear OS is an operating system by google
+
+the current source code can be found under
+https://github.com/bleissem/HelloWorldWearOS
