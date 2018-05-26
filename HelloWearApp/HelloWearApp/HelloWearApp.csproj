@@ -8,7 +8,7 @@
     <TemplateGuid>{0af826e4-e8b7-435f-b02e-4101b634e385}</TemplateGuid>
     <OutputType>Library</OutputType>
     <RootNamespace>HelloWearApp</RootNamespace>
-    <AssemblyName>HelloWearApp</AssemblyName>
+    <AssemblyName>com.bleissem.HelloWearApp</AssemblyName>
     <MonoAndroidAssetsPrefix>Assets</MonoAndroidAssetsPrefix>
     <MonoAndroidResourcePrefix>Resources</MonoAndroidResourcePrefix>
     <AndroidResgenClass>Resource</AndroidResgenClass>
